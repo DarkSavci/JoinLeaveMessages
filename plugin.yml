@@ -1,6 +1,6 @@
 name: JoinLeaveMessages
-main: me.darksavci.deneme.Main
-version: 1.0
+main: me.darksavci.joinleavemessages.Main
+version: 1.2
 depend: [PlaceholderAPI]
 commands: 
     jm-reload:
