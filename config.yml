@@ -1,0 +1,9 @@
+# You need PlaceHolderAPI for use this plugin.
+# Default placeholder requirements is "Player".
+# You can download player with "/papi ecloud download Player".
+# If you want to add new placeholders you can found them here "https://github.com/PlaceholderAPI/PlaceholderAPI/wiki/Placeholders".
+# If you have issues please message me on discord "DarkSavci#0001"
+
+PlayerFirstJoin: '&b%player_name% &ehas joined game first time.'
+PlayerJoin: '&b%player_name% &ehas joined the game.'
+PlayerLeave: '&b%player_name% &chas left the game.'
