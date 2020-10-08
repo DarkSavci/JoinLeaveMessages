@@ -1,0 +1,11 @@
+name: JoinLeaveMessages
+main: me.darksavci.deneme.Main
+version: 1.0
+depend: [PlaceholderAPI]
+commands: 
+    jm-reload:
+      description: Reload Config
+      usage: '/jm-reload'
+      permission: joinmessage.reload
+      permission-message: "You don't have permission."
+     
