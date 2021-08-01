@@ -3,9 +3,6 @@
 ##### This is first project i made in spigot it's poorly coded.
 ##### Feel free to use the source code
 
-#
-#
-
 ## I suggest using this plugin
 [Spigot]: https://www.spigotmc.org/resources/57006/
 [releases]: https://github.com/jonagamerpro1234/CustomJoinAndQuitMessages/releases/latest
